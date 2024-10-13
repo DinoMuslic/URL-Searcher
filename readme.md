@@ -29,12 +29,6 @@ A command-line tool to open a specified URL in your web browser.
    curl -L -o %USERPROFILE%\search.py https://raw.githubusercontent.com/DinoMuslic/URL-Searcher/main/search.py
 ```
 
-## Dependencies
-Install Required Dependencies: Navigate to the directory where you saved the search.py script, then run:
-```bash
-    pip install validators
-```
-
 
 ## Usage 
 To use the URL Searcher, run the following command in your terminal or command prompt:
