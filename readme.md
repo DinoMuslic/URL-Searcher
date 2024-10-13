@@ -8,7 +8,6 @@ A command-line tool to open a specified URL in your web browser.
   - [Linux & macOS](#installation-for-linux-&-macOS)
   - [Windows](#installation-for-windows)
 - [Usage](#usage)
-- [Dependencies](#dependencies)
 
 ## Installation
 
