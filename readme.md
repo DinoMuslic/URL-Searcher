@@ -16,21 +16,21 @@ A command-line tool to open a specified URL in your web browser.
 
 1. **Download the Script**:
    Open a terminal and run the following command:
-    ```bash
+```bash
    curl -L https://raw.githubusercontent.com/DinoMuslic/URL-Searcher/main/search -o /usr/local/bin/search
    chmod a+rx /usr/local/bin/search
-   ```
+```
 
 ### Installation for Windows
 
 2. **Download the Script**
     Open a command prompt and run:
-    ```bash
+```bash
    curl -L -o %USERPROFILE%\search.py https://raw.githubusercontent.com/DinoMuslic/URL-Searcher/main/search.py
-   ```
+```
 
 ## Dependencies
-    Install Required Dependencies: Navigate to the directory where you saved the search.py script, then run:
+Install Required Dependencies: Navigate to the directory where you saved the search.py script, then run:
 ```bash
     pip install validators
 ```
